@@ -1,0 +1,8 @@
+using namespace std
+int main(){
+ 
+ cout <<"HOLA MUNDO"; //te quiero
+ cout <<"la vida es bella"
+ return 0;
+ 
+}
