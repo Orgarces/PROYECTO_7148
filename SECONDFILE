@@ -1,0 +1,8 @@
+using namespace std
+int main(){
+ 
+ cout <<"SEGUNDO ARCHIVO"; //practica github
+ 
+ return 0;
+ 
+}
